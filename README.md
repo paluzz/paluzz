@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @paluzz
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Reactjs
+# 👋 Hi, I’m @paluzz
+I am a frontend developer with a passion for building beautiful and user-friendly websites. I have experience with HTML, CSS, and JavaScript, and I am currently learning Reactjs to expand my skillset.
 
-<!---
-paluzz/paluzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 My Interests
+- Building responsive and mobile-friendly websites
+- Creating clean and modern user interfaces
+- Learning new web technologies and frameworks
+
+## 🌱 What I'm currently learning
+- Reactjs
+- Next.js
+- C & C++
+
+## 🚀 My Projects
+- A responsive landing page for a local business using Bootstrap
+- A weather app using the OpenWeather API and jQuery
+- A to-do list app built with Reactjs
+
+## 📫 Contact me
+If you want to work together or just want to chat, feel free to reach out to me on [Twitter](https://twitter.com/@PaluzDev) or [LinkedIn](https://www.linkedin.com/in/paluzz/).
