@@ -9,7 +9,8 @@ I am a frontend developer with a passion for building beautiful and user-friendl
 ## 🌱 What I'm currently learning
 - Reactjs
 - Next.js
-- C & C++
+- Python
+- C
 
 ## 🚀 My Projects
 - A responsive landing page for a local business using Bootstrap
